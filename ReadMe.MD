@@ -12,7 +12,7 @@
 
 ## To give developers and QA's confidence that changes made in Jimmys Github are meeting expectations of consumers.
 
-# These tests are designed to run locally and provide fast-feedback against either a PR or main development branch. 
+# These tests are designed to run locally 
 <br />
 
 ## Installation
