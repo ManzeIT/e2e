@@ -1,4 +1,4 @@
-# Jimmys Github API commits
+## Github API commits
 
 <br />
 
