@@ -47,8 +47,7 @@ Then(
     }
 )
 
-Then(
-    /^the response was not (successful)?(unsuccesful)?$/,
+Then( /^the response was not (successful)?(unsuccesful)?$/,
     async function (this: ScenarioWorld, success: boolean, unsuccessful: boolean) {
         const {
             globalAPIResponseVariables
