@@ -59,8 +59,6 @@ Then( /^the response was not (successful)?(unsuccesful)?$/,
     }
 )
 
-
-
 Then('the response status code is {int}', function (this: ScenarioWorld, statusCode: string) {
     const {
         globalAPIResponseVariables
